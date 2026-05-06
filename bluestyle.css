@@ -1,9 +1,10 @@
 body {
+    background-color: rgb(100, 172, 196);
     background-color: lightblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1{
-    color: navy;
+    color: rgb(0, 0, 113);
     margin-left: 20px;
 }
